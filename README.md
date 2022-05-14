@@ -1,4 +1,4 @@
 # VIPApp
 The VIP Companion APP
 
-https://thrillhows.github.io/VIPApp/
+https://tmp341.github.io/VIPApp/
